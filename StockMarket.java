@@ -22,7 +22,7 @@ public class StockMarket extends Frame
     private ArrayList<Client> investmentUser;
     private int arraySize;
     private static TextArea infoArea = new TextArea("Click Stock list");
-    private static TextArea consoleArea = new TextArea("ArJo's Stock Market Simulator");
+    private static TextArea consoleArea = new TextArea("Aaryan's Stock Market Simulator");
     private Panel clientButtonsPanel;
     private static StockArrayList availableStock = new StockArrayList();
 

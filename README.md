@@ -1,6 +1,8 @@
 # StockMarketSimulator
 Stock Market Simulator - Java
 
+![Thumbnail](thumbnail.png)
+
 # Stock Market Simulator
 
 This is a simple stock market simulator implemented in Java. The simulator allows users to buy and sell stocks, track their portfolio, and view stock market trends. It provides a hands-on experience of investing in stocks without using real money.
@@ -16,7 +18,7 @@ This is a simple stock market simulator implemented in Java. The simulator allow
 1. Clone the repository:
 
    ```
-   git clone https://github.com/arturojmamba/StockMarketSimulator.git
+   git clone https://github.com/aaryan2720/Java-Project
    ```
 
 2. Navigate to the project directory:
@@ -34,7 +36,7 @@ This is a simple stock market simulator implemented in Java. The simulator allow
 4. Run the simulator:
 
    ```
-   java mambaStockMarket
+   java StockMarket
    ```
 
 ## Usage
@@ -60,6 +62,6 @@ Contributions are welcome! If you have any ideas, bug fixes, or improvements, fe
 For any questions or inquiries, please contact:
 
 Your Name
-Email: arturo.j.mamba@gmail.com
+Email: aryan1234choudhari1983@gmail.com
 
 Enjoy your stock market simulation experience!
