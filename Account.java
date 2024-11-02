@@ -11,6 +11,8 @@ public class Account implements resetBalance
         this.balance=5000;
     }
 
+    
+
     public double getBalance()
     {
         //returns the users balance by 2 d.p

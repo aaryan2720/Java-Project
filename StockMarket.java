@@ -53,6 +53,8 @@ public class StockMarket extends Frame
         new StockMarket();
     }
 
+    
+
     //allows us to display text on text area
     //used for displaying available stocks
     public static void print(String text)
