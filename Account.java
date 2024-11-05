@@ -7,7 +7,6 @@ public class Account implements resetBalance
 
     public Account()
     {
-        //balance will be set to 5000 to start with.
         this.balance=5000;
     }
 
