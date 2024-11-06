@@ -14,6 +14,7 @@ public class Account implements resetBalance
 
     public double getBalance()
     {
+        
         //returns the users balance by 2 d.p
         String balance2 = String.format("%.2f",balance);
         balance = Double.parseDouble(balance2);
