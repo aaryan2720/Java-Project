@@ -25,9 +25,7 @@ public class StockMarket extends Frame
     private static TextArea consoleArea = new TextArea("Aaryan's Stock Market Simulator");
     private Panel clientButtonsPanel;
     private static StockArrayList availableStock = new StockArrayList();
-    
-
-    public static void main (String [] a) throws Exception
+        public static void main (String [] a) throws Exception
     {
         //Initialises new stocks and coins that the user is able to buy
         Stock apple = new Stock("Apple", 129.30);
