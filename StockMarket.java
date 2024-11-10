@@ -68,6 +68,7 @@ public class StockMarket extends Frame
     //prints the available stock to infoArea
     public static void printStocks()
     {
+        
         print(availableStock.allStocks());
     }
 
