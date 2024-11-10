@@ -72,7 +72,6 @@ public class StockMarket extends Frame
     }
 
     //Uses an asynchronous method in order to update prices constantly and print them to infoArea
-
     public static void printPriceUpdater()
     {
         Timer t = new Timer();
