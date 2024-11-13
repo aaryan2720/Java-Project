@@ -68,7 +68,7 @@ public class StockMarket extends Frame
     //prints the available stock to infoArea
     public static void printStocks()
     {
-        
+
         print(availableStock.allStocks());
     }
 
@@ -77,6 +77,8 @@ public class StockMarket extends Frame
     {
         Timer t = new Timer();
 
+
+        
         t.scheduleAtFixedRate(
                 new TimerTask()
                 {
