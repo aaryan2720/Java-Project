@@ -1,6 +1,3 @@
-import java.util.TimerTask;
-import java.util.Timer;
-
 //a subclass of Stock, both are assets.
 public class Coin extends Stock
 {
@@ -20,7 +17,7 @@ public class Coin extends Stock
         this.counter=0;
         this.staked = false;
     }
-
+    
     public double getValue()
     {
         return this.value;
