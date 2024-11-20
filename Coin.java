@@ -16,6 +16,7 @@ public class Coin extends Stock
         this.value=0.00;
         this.counter=0;
         this.staked = false;
+    
     }
     public double getValue()
     {
