@@ -10,6 +10,8 @@ public class Stock
     private int stockOwned;
     private static int counter;
 
+
+    
     public Stock(String stockName, double stockPrice)
     {
         this.stockName=stockName;
