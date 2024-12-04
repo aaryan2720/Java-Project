@@ -19,7 +19,6 @@ public class Coin extends Stock
     
     }
 
-    
     public double getValue()
     {
         return this.value;
