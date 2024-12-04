@@ -18,6 +18,8 @@ public class Coin extends Stock
         this.staked = false;
     
     }
+
+    
     public double getValue()
     {
         return this.value;
