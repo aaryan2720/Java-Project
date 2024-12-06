@@ -1,33 +1,11 @@
-Name: aryan
-Balance: £4624.34
-Net worth: £5001.80
-All investments: 
-
-Asset Name: Apple
-Amount Owned: 3
-Total Asset Value: £377.46
-
-
-
-Name: aryan
-Balance: £4624.34
+Name: Aaryan
+Balance: £4613.36
 Net worth: £5001.26
 All investments: 
 
 Asset Name: Apple
 Amount Owned: 3
-Total Asset Value: £376.92
-
-
-
-Name: aryan
-Balance: £4624.34
-Net worth: £5021.54
-All investments: 
-
-Asset Name: Apple
-Amount Owned: 3
-Total Asset Value: £397.20
+Total Asset Value: £387.90
 
 
 
