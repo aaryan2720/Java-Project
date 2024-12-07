@@ -53,6 +53,7 @@ public class StockArrayList
             this.stocks.add(value);
         }
     }
+    
 
     //prints all available stock, with their information including their name, ID, price, and the amount the user owns.
     public String allStocks()

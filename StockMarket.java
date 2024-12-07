@@ -39,6 +39,7 @@ public class StockMarket extends Frame
         sol.setBlockChain("SOL");
         btc.setBlockChain("BTC");
         eth.setBlockChain("ETH");
+        
 
         //adds them to the available stock arraylist that will be printed in infoArea.
         availableStock.addStock(apple);
