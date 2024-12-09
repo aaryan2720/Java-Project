@@ -50,3 +50,5 @@ public abstract class Trader extends Name
         this.investments = new ArrayList<Stock>(arraySize);
     }
 }
+
+

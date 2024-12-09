@@ -3,6 +3,8 @@ import java.util.TimerTask;
 import java.util.Timer;
 import java.util.Random;
 
+
+
 //will be used to hold the available stock to be bought.
 public class StockArrayList
 {
