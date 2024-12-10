@@ -1,4 +1,3 @@
-
 //a subclass of Stock, both are assets.
 public class Coin extends Stock
 {

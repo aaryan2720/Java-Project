@@ -1,7 +1,6 @@
 import java.util.*;
-import java.util.TimerTask;
-import java.util.Timer;
-import java.util.Random;
+
+
 //will be used to hold the available stock to be bought.
 public class StockArrayList
 {
@@ -13,7 +12,7 @@ public class StockArrayList
         this.arraySize=0;
         this.stocks = new ArrayList<Stock>(arraySize);
     }
-    
+
 
     //checks if that asset is in the arraylist, using a loop.
     public Stock containsID(int ID)

@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+
 //parent class to create abstraction, for client subclass.
 public abstract class Trader extends Name
 {
