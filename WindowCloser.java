@@ -10,6 +10,3 @@ class WindowCloser extends WindowAdapter
     }
 
 }
-
-
-
