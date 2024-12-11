@@ -1,4 +1,6 @@
 //a subclass of Stock, both are assets.
+
+
 public class Coin extends Stock
 {
     //has a blockchain attribute.
